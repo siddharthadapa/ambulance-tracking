@@ -1,0 +1,12 @@
+# Backend build artifacts
+backend/target/
+
+# Frontend dependencies and production builds
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables (Sensitive data)
+frontend/.env
+
+# System files
+.DS_Store
